@@ -60,6 +60,28 @@ Co-authored-by: Name <email@example.com>
 
 ---
 
+## 🌟 6. Starstruck (Rare & Free)
+
+**Requirement:** Create a repository that gets 16 stars.
+**Strategy:**
+
+1.  Build something useful (like this Badge Scanner!).
+2.  Share it on Twitter/LinkedIn.
+3.  Add the `hacktoberfest` topic if applicable.
+4.  **Pro Tip:** Ask friends to star your repo. It counts!
+
+## 💖 7. Public Sponsor (The "Heart" Badge)
+
+**Requirement:** Sponsor an open source developer.
+**Strategy:**
+
+1.  Find a developer you admire who has GitHub Sponsors enabled.
+2.  Sponsor them for just **$1** (one-time).
+3.  The badge appears on your profile immediately.
+4.  _Technically not free, but $1 is cheaper than GitHub Pro ($4/mo)._
+
+---
+
 ## 🔗 Resources
 
 - **[Badge Scanner App](https://badge-scanner-coral.vercel.app)** (Check your status)
