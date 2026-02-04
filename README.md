@@ -1,10 +1,17 @@
-# 🛡️ Badge Scanner (Open Source)
+# 🛡️ Badge Scanner
 
 > **"Code is just a game where you write the rules."**
 
-This is the official source code for the Badge Scanner app. It connects to your GitHub profile to verify unlocked hidden achievements (Quickdraw, YOLO, Pull Shark, etc.) and calculate your progress towards the next tier.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?style=for-the-badge&logo=vercel)](https://badge-scanner-coral.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/LuisSambrano/badge-scanner)
 
-## 🚀 Why?
+This is the official tool used in the **[GitHub Achievements Speedrun](https://github.com/LuisSambrano/github-achievements-speedrun)** guide.
+
+It connects to your GitHub profile to verify unlocked hidden achievements (Quickdraw, YOLO, Pull Shark, etc.) and calculate your progress towards the next tier.
+
+## 🚀 Live App
+
+**[https://badge-scanner-coral.vercel.app](https://badge-scanner-coral.vercel.app)**
 
 We believe GitHub profiles are the new CVs. This tool helps developers "gamify" their open source contribution journey.
 
