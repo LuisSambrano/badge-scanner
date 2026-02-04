@@ -37,22 +37,27 @@ Don't spam! Fix typos in documentation, add small features to open source repos,
 3. Merge it to `main` immediately (Admin overrides often trigger this).
    _Warning: Don't do this on critical production apps!_
 
-## 🧠 4. Galaxy Brain
+## 🧠 4. Galaxy Brain (Community Choice)
 
-**Requirement:** Get accepted answers in GitHub Discussions.
-
-- **Bronze:** 2 Answers.
-- **Silver:** 8 Answers.
-- **Gold:** 16 Answers.
-
+**Requirement:** Get 2 accepted answers in GitHub Discussions.
 **Strategy:**
-Find repositories with active "Discussions" tabs. Look for "Q&A" categories. Answer questions helpfully.
 
-## 👯 5. Pair Extraordinaire
+1. Find active repos with a **"Discussions"** tab (e.g., `vercel/next.js`, `supabase/supabase`).
+2. Go to the **"Q&A"** category.
+3. Find a simple question you can answer accurately.
+4. Once the author marks your answer as "Accepted", you are halfway there!
+
+## ✨ 5. Heart on your Sleeve (In Testing)
+
+**Requirement:** React with ❤️ to an issue, PR, or comment.
+**Strategy:**
+This badge is in "A/B Testing". Try reacting with a **Heart ❤️** to a few popular project updates or discussions. If you are in the newest test group, the badge might show up!
+
+## 👯 6. Pair Extraordinaire
 
 **Requirement:** Co-author commits.
 **Strategy:**
-When committing, add this formatting to your commit message:
+When committing, add this formatting to your commit message (at the bottom, with two new lines):
 
 ```
 Co-authored-by: Name <email@example.com>
@@ -60,7 +65,7 @@ Co-authored-by: Name <email@example.com>
 
 ---
 
-## 🌟 6. Starstruck (Rare & Free)
+## 🌟 7. Starstruck (Rare & Free)
 
 **Requirement:** Create a repository that gets 16 stars.
 **Strategy:**
@@ -70,7 +75,7 @@ Co-authored-by: Name <email@example.com>
 3.  Add the `hacktoberfest` topic if applicable.
 4.  **Pro Tip:** Ask friends to star your repo. It counts!
 
-## 💖 7. Public Sponsor (The "Heart" Badge)
+## 💖 8. Public Sponsor (The "$1" Badge)
 
 **Requirement:** Sponsor an open source developer.
 **Strategy:**
