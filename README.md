@@ -52,3 +52,6 @@ Want to know **HOW** to unlock these badges manually?
 ## 📜 License
 
 MIT © Luis Sambrano
+
+
+> *This repo is actively maintained for the community.*
