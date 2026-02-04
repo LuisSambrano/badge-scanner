@@ -30,15 +30,18 @@ See the [Deployment Guide](./DEPLOY.md) to launch on Vercel in < 5 minutes.
 
 ## 🤝 Join the Hunt (Community)
 
-**We need YOU to make this better!**
-Found a new secret badge? Want to add a "Share to LinkedIn" button?
+**We want to see your achievements!**
 
-1.  **⭐ Give it a Star:** It helps others find this tool!
-2.  **💬 Join Discussions:** Have an idea? [Start a Discussion](https://github.com/LuisSambrano/badge-scanner/discussions) (or open an Issue).
-3.  **🛠️ Contribute:**
-    - Fork the repo.
-    - Create a branch: `git checkout -b feature/epic-badge`
-    - Submit a PR!
+1.  **⭐ Star this repo** if you want to unlock the **Starstruck** badge (16 stars needed!).
+2.  **📸 Show off:** Open a [new Discussion](https://github.com/LuisSambrano/badge-scanner/discussions) with a screenshot of your rarest badge!
+3.  **🛠️ Contribute:** We are looking for a "Share to LinkedIn" button. Want to build it?
+
+## 🏆 User Hall of Fame
+
+Using this tool? Open a PR to add your GitHub handle here!
+
+- [@LuisSambrano](https://github.com/LuisSambrano) - _The Creator_
+- _(Your name here?)_
 
 > **Tags:** #github-achievements #opensource #nextjs #gamification #developer-tools #hacktoberfest
 
@@ -53,5 +56,4 @@ Want to know **HOW** to unlock these badges manually?
 
 MIT © Luis Sambrano
 
-
-> *This repo is actively maintained for the community.*
+> _This repo is actively maintained for the community._
