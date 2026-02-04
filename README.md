@@ -28,15 +28,26 @@ We believe GitHub profiles are the new CVs. This tool helps developers "gamify" 
 Want to run your own instance?
 See the [Deployment Guide](./DEPLOY.md) to launch on Vercel in < 5 minutes.
 
-## 🤝 Contributing
+## 🤝 Join the Hunt (Community)
 
-Found a bug? Want to add a badge?
+**We need YOU to make this better!**
+Found a new secret badge? Want to add a "Share to LinkedIn" button?
 
-1. Fork it.
-2. Create your feature branch (`git checkout -b feature/amazing-badge`).
-3. Commit your changes (`git commit -m 'Add Amazing Badge'`).
-4. Push to the branch (`git push origin feature/amazing-badge`).
-5. Open a Pull Request.
+1.  **⭐ Give it a Star:** It helps others find this tool!
+2.  **💬 Join Discussions:** Have an idea? [Start a Discussion](https://github.com/LuisSambrano/badge-scanner/discussions) (or open an Issue).
+3.  **🛠️ Contribute:**
+    - Fork the repo.
+    - Create a branch: `git checkout -b feature/epic-badge`
+    - Submit a PR!
+
+> **Tags:** #github-achievements #opensource #nextjs #gamification #developer-tools #hacktoberfest
+
+## 📚 Read the Guide
+
+Want to know **HOW** to unlock these badges manually?
+
+- **[Read our In-Depth Guide](./ACHIEVEMENTS_GUIDE.md)** (Right here in this repo!)
+- Check out the **[Speedrun Repository](https://github.com/LuisSambrano/badge-scanner-speedrun)** to practice.
 
 ## 📜 License
 
