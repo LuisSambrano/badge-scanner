@@ -11,7 +11,7 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
       return token
     },
     async session({ session, token }) {
-      // @ts-ignore
+      // @ts-expect-error - session type extending
       session.accessToken = token.accessToken
       return session
     },

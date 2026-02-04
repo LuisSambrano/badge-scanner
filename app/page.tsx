@@ -221,7 +221,7 @@ export default async function Home() {
                     
                     <div className="mt-6 flex gap-4">
                          <a 
-                            href={`https://twitter.com/intent/tweet?text=I%20just%20checked%20my%20GitHub%20Stats%20on%20Badge%20Scanner!%20Check%20yours:%20https://badge-scanner.vercel.app`}
+                            href={`https://twitter.com/intent/tweet?text=I%20just%20checked%20my%20GitHub%20Stats%20on%20Badge%20Scanner!%20Check%20yours:%20https://badge-scanner-coral.vercel.app`}
                             target="_blank"
                             className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg font-bold transition-colors flex items-center gap-2"
                          >
