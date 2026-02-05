@@ -32,7 +32,7 @@ Este projeto segue uma metodologia **Research-First**.
 | [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Gamificação como motor de retenção |
 | [prompts/](./research/prompts/)               | Logs de pesquisa de API            |
 
-> 💡 **Para IAs**: Leia `KEY_FINDINGS.md` para entender a estratégia de viralidade e gamificação.
+> **Estratégia de Gamificação**: Leia `KEY_FINDINGS.md` para entender a estratégia de viralidade e mecânicas de jogo.
 
 ## 🛠️ Stack Tecnológico
 

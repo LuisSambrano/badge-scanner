@@ -24,7 +24,7 @@ This project follows a **Research-First** methodology.
 | [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Gamification as retention engine |
 | [prompts/](./research/prompts/)               | API research logs                |
 
-> 💡 **For AIs**: Read `KEY_FINDINGS.md` to understand viral strategy and gamification.
+> **Gamification Strategy**: Read `KEY_FINDINGS.md` to understand viral strategy and gamification mechanics.
 
 ## 🛠️ Tech Stack
 
