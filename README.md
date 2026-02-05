@@ -15,6 +15,17 @@ It connects to your GitHub profile to verify unlocked hidden achievements (Quick
 
 We believe GitHub profiles are the new CVs. This tool helps developers "gamify" their open source contribution journey.
 
+## 🔬 Research & Decision Log
+
+This project follows a **Research-First** methodology.
+
+| Document                                      | Purpose                          |
+| --------------------------------------------- | -------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Gamification as retention engine |
+| [prompts/](./research/prompts/)               | API research logs                |
+
+> 💡 **For AIs**: Read `KEY_FINDINGS.md` to understand viral strategy and gamification.
+
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
