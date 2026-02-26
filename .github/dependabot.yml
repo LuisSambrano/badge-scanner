@@ -1,0 +1,32 @@
+# Dependabot configuration — Antigravity Standard
+# Strategy: Auto-update patches & minors only. Major versions are closed
+# and handled manually in dedicated migration sessions.
+#
+# Jules handles security audits. Dependabot handles dependency freshness.
+# Together they keep the repo healthy without breaking changes.
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    # Only allow patch and minor updates — never major
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "chore(deps)"
+    labels:
+      - "dependencies"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    commit-message:
+      prefix: "chore(ci)"
+    labels:
+      - "ci"
